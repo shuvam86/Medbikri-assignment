@@ -7,4 +7,4 @@ To make an API to fetch latest videos sorted in reverse chronological order of t
 - Run the server using `npm start`
 
 ## Deployment
-To see the deployment, click: https://assignment-medbikri.onrender.com/
+To see the deployment, click: https://medbikri-assignment.onrender.com
